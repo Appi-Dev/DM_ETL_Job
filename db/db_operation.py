@@ -5,7 +5,7 @@ from query import create_country_table_query, insert_in_country_table_query, cre
 host = 'localhost'
 default_database = 'postgres'
 user = 'postgres'
-password = 'Arpit@123'
+password = 'Something you want'
 database = 'world'
 
 # Create database
